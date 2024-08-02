@@ -21,3 +21,4 @@ while True:
         break
     else:
         print("Sorry I don't understand that command.")
+print("Hello")
